@@ -5,4 +5,4 @@ In the interest of displaying my self-taught SQL querying skills and understandi
 
 Thank you for visiting.
 
-- V.K. 
+V.K. 
