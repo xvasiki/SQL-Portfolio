@@ -1,3 +1,7 @@
+-- Vasiki K. 5/7/24 --
+-- Learnings Applied: Aggregate functions, simple subquery, JOINs, aliases, group/order by, table alterations --
+
+
 -- ALTER TABLE used_car_sales CHANGE pricesold price int(255) --
 -- ALTER TABLE used_car_sales CHANGE yearsold year_sold int(255); -- 
 -- ALTER TABLE used_car_sales CHANGE Mileage mileage int(255); --
