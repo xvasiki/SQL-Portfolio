@@ -6,3 +6,5 @@ In the interest of displaying my self-taught SQL skills and understanding of cor
 Thank you for visiting.
 
 V.K. 
+
+[SQL Project 2 Documentation]([url](https://docs.google.com/document/d/1mZX1MJEbVd8AgVRk5b9LzQewx9KFCWjd_gLqKvqCJcM/edit?usp=sharing))
