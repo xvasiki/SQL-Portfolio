@@ -1,3 +1,6 @@
+---LINK TO DOCUMENTATION: ---
+https://docs.google.com/document/d/1mZX1MJEbVd8AgVRk5b9LzQewx9KFCWjd_gLqKvqCJcM/edit?usp=sharing
+---
 ---Which sales rep has the highest total sales?---
 SELECT Contact_name, ROUND(SUM(` Sales `),2) AS `Total Sales` FROM `sales_data.saas_sales`
 GROUP BY Contact_name
